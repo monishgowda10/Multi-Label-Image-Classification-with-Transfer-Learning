@@ -45,7 +45,7 @@ The aim of this project is to perform multi-label image classification using tra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/monishgowda10/repo-name.git
    ```
 2. Install the required dependencies:
    ```bash
