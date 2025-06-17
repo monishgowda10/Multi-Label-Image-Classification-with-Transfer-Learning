@@ -54,7 +54,7 @@ The aim of this project is to perform multi-label image classification using tra
 
 ## Usage
 1. Download and extract the PASCAL 2007 dataset.
-2. Run the script: [Transfer_Learning_MultiLabel_ImageClassification.ipynb](link-to-ipynb)
+2. Run the script: [Transfer_Learning_MultiLabel_ImageClassification.ipynb](https://colab.research.google.com/drive/1TtuEhgjfe8stcOdznNOABmWzK_SMAJ_3?usp=sharing)
 3. Optionally, modify the parameters as needed to experiment with different settings.
 
 ## Results
